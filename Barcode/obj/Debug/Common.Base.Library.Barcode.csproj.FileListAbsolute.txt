@@ -1,0 +1,9 @@
+C:\AllData\Projects\Base\Common\Library\Common.Base.Library.Barcode\obj\Debug\Common.Base.Library.Barcode.csprojResolveAssemblyReference.cache
+C:\AllData\Projects\Base\Common\Library\Common.Base.Library.Barcode\bin\Debug\Common.Base.Library.Barcode.dll
+C:\AllData\Projects\Base\Common\Library\Common.Base.Library.Barcode\bin\Debug\Common.Base.Library.Barcode.pdb
+C:\AllData\Projects\Base\Common\Library\Common.Base.Library.Barcode\obj\Debug\Common.Base.Library.Barcode.dll
+C:\AllData\Projects\Base\Common\Library\Common.Base.Library.Barcode\obj\Debug\Common.Base.Library.Barcode.pdb
+C:\AllData\Projects\Base\Common\Library\Barcode\bin\Debug\Common.Base.Library.Barcode.dll
+C:\AllData\Projects\Base\Common\Library\Barcode\bin\Debug\Common.Base.Library.Barcode.pdb
+C:\AllData\Projects\Base\Common\Library\Barcode\obj\Debug\Common.Base.Library.Barcode.dll
+C:\AllData\Projects\Base\Common\Library\Barcode\obj\Debug\Common.Base.Library.Barcode.pdb
