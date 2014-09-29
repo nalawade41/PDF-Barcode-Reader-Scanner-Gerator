@@ -1,4 +1,5 @@
-Git-Barcode-Reader
+Barcode Reader/Scanner And Genrator
+PDF barcode reader and genrator
 ==================
 
 Barcode Reader and barcode scanner 
@@ -7,3 +8,5 @@ barcode and also reading the barcode from your pdf file and converting the pdf i
 
 Make the changes as you required like adding filter and processing of the vector histogram of the image to read more complex  and 
 detoriated pages for barcode.
+
+And also read barcode from PDF
