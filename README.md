@@ -11,3 +11,5 @@ Make the changes as you required like adding filter and processing of the vector
 detoriated pages for barcode.
 
 And also read barcode from PDF.
+
+More info on how to use the classes is [here.](http://csharpcornerplus.wordpress.com/2014/10/06/how-to-read-scan-barcode-from-the-pdf-using-c/)
